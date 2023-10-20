@@ -1,5 +1,5 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+# <summary><strong>Hi there :wave: , I'm Sidik Prasetyo!</strong></summary>
+Lifelong Learner, currently student at Duta Bangsa University, Surakarta.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -10,10 +10,10 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently learning Python. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
+    - :mailbox: How to reach me: <a href="mailto:sidikprasetyo6661@gmail.com">Email me!</a>  </br>
+    - :cloud: Pronouns: He/Him. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
