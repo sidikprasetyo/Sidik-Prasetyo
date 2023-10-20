@@ -18,6 +18,6 @@ Lifelong Learner, currently student at Duta Bangsa University, Surakarta.
 <a href="https://www.instagram.com/sidik_prst/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://yours.com/">
+<a href="[https://yours.com/](https://www.linkedin.com/in/sidik-prasetyo-832bb1221/)">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
