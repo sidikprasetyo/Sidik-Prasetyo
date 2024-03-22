@@ -7,7 +7,7 @@ Lifelong Learner, currently student at Duta Bangsa University, Surakarta.
 </p>
 
 <p>
-    - :keyboard: I’m currently learning Python. </br>
+    - :keyboard: I’m currently learning Web Developer. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:sidikprasetyo6661@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
